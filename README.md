@@ -1,5 +1,5 @@
 # Quiz-Project
-Make your quizzes, and 
+Run a Quiz 
 
 
 ## Getting Started
